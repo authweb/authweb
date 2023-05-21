@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Valery
 - 👀 I’m interested in Web development and Web design
-- 🌱 I’m currently studying at SibSU named after M.F. Reshetneva
+- 🌱 Student from Siberian State University of Science and Technologies
 - 💞️ I want to cooperate with teams and companies
 
 
